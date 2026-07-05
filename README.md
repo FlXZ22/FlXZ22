@@ -1,6 +1,11 @@
-<h1 align="center" >Hey, i am Metis</h1>
+<h1 align="center" >Hello, i am</h1>
+
+<div align="center">
+  <img src="metis-logo-animated.svg" width="300">
+</div>
 
 <p>Young engineer in Italy, building an AI architecture system to understand them deeply and hosting a VPS in the cloud</p>
+
 
 <div>
 <img src="https://skillicons.dev/icons?i=python,c,html,css,git,sqlite&theme=dark" />
