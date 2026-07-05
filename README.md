@@ -19,7 +19,6 @@
   <li>A sorting algorithm visualizer made in Python using Plotly and Streamlit</li>
   <li>Hosting a VPS in the cloud to deploy my personal AI agent and other things like WireGuard vpn and n8n automation</li>
   <li>Create an n8n lead-gen automation that scrapes Google Maps and searches for businesses to contact and displays the data on Google Sheets</li>
-  <li>UPCOMING: a simple FastAPI using Python to get the leads info and save it in a SQLite3 database and display it in a html/css website</li>
 </ul>
 <!-- 4. LAVORO / CLIENTI
      Progetti reali con persone reali dietro. Nome, link se pubblico, una riga sul risultato.
@@ -28,6 +27,13 @@
 <!-- 5. IN CORSO ORA
      Una o due cose su cui stai lavorando davvero in questo momento. Non un elenco di buoni propositi.
 -->
+<h2>Work in progress</h2>
+<ul>
+  <li>Creating a simple FastAPI using Python to get the leads info and save it in a SQLite3 database and display it in a html/css website</li>
+</ul>
 <!-- 6. CHIUSURA (opzionale)
      Link di contatto o niente. Non serve una frase a effetto.
 -->
+<h1>Contact me</h1>
+<p>Email: metis.dev@proton.me</p>
+
