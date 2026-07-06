@@ -15,10 +15,10 @@
 
 <h2>Projects</h2>
 <ul>
-  <li>Full-stack website for small local business</li>
-  <li>A sorting algorithm visualizer made in Python using Plotly and Streamlit</li>
-  <li>Hosting a VPS in the cloud to deploy my personal AI agent and other things like WireGuard vpn and n8n automation</li>
-  <li>Create an n8n lead-gen automation that scrapes Google Maps and searches for businesses to contact and displays the data on Google Sheets</li>
+  <li>Full-stack websites for local businesses through my studio, <a href="https://vetrinastudio.it">Vetrina Studio</a>. Here's a <a href="https://la-villetta.vercel.app">live example</a></li>
+  <li>Sorting algorithm visualizer built in Python with Plotly and Streamlit, tracks both the algorithm's runtime and total execution time: <a href="https://python-sorting-visualizer.streamlit.app/">demo here</a></li>
+  <li>Self-hosted VPS running my personal AI agent through Telegram, plus WireGuard VPN and n8n automations</li>
+  <li>n8n lead-gen pipeline: scrapes Google Maps through Apify, scores leads with AI, dumps everything into Google Sheets</li>
 </ul>
 <!-- 4. LAVORO / CLIENTI
      Progetti reali con persone reali dietro. Nome, link se pubblico, una riga sul risultato.
