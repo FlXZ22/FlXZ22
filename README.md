@@ -45,5 +45,16 @@ Full-stack developer in Italy. Building AI agent systems and automations, self-h
 
 <hr>
 
-<h2>Contact me</h2>
-<p>Email: metis.dev@proton.me</p>
+<div align="center">
+<pre>
+▸ Contact me
+</pre>
+</div>
+<p align="center">
+  <a href="mailto:metis.dev@proton.me"><img src="https://img.shields.io/badge/email-metis.dev@proton.me-4f8cff?style=flat-square&logo=protonmail&logoColor=white" alt="email"></a>
+  &nbsp;
+  <a href="https://vetrinastudio.it"><img src="https://img.shields.io/badge/studio-vetrinastudio.it-34d399?style=flat-square" alt="studio"></a>
+</p>
+<p align="center">
+  <sub>Open to freelance projects and junior developer opportunities.</sub>
+</p>
