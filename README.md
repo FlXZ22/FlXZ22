@@ -29,7 +29,7 @@
 -->
 <h2>Work in progress</h2>
 <ul>
-  <li>Creating a simple FastAPI using Python to get the leads info and save it in a SQLite3 database and display it in a html/css website</li>
+  <li>Creating a simple FastAPI using Python to get the leads info from n8n and save it in a SQLite3 database and display it in a html/css website</li>
 </ul>
 <!-- 6. CHIUSURA (opzionale)
      Link di contatto o niente. Non serve una frase a effetto.
