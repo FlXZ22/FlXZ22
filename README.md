@@ -1,17 +1,32 @@
-<h1 align="center" >Hello, i am</h1>
+<div align="center">
+  <img src="metis-logo-animated.svg" width="300" alt="Metis logo">
+</div>
 
 <div align="center">
-  <img src="metis-logo-animated.svg" width="300">
+<pre>
+▸ whoami
+</pre>
 </div>
 
-<p>Young engineer in Italy, building an AI architecture system to understand them deeply and hosting a VPS in the cloud</p>
+<p align="center">
+Full-stack developer in Italy. Building AI agent systems and automations, self-hosted on my own VPS.
+</p>
 
+<br>
 
-<div>
-<img src="https://skillicons.dev/icons?i=python,c,html,css,git,sqlite&theme=dark" />
+<p align="center">
+<img src="https://img.shields.io/badge/agent-online-34d399?style=flat-square" alt="agent status">
+<img src="https://img.shields.io/badge/base-Milan,_Italy-4f8cff?style=flat-square" alt="location">
+<img src="https://img.shields.io/badge/learning-CS50_%26_Python-f5b400?style=flat-square" alt="currently learning">
+<img src="https://img.shields.io/badge/status-open_to_freelance-34d399?style=flat-square" alt="freelance status">
+</p>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,c,html,css,git,sqlite&theme=dark" alt="tech stack: Python, C, HTML, CSS, Git, SQLite">
 </div>
 
-
+<br>
+<hr>
 
 <h2>Projects</h2>
 <ul>
@@ -20,20 +35,15 @@
   <li>Self-hosted VPS running my personal AI agent through Telegram, plus WireGuard VPN and n8n automations</li>
   <li>n8n lead-gen pipeline: scrapes Google Maps through Apify, scores leads with AI, dumps everything into Google Sheets</li>
 </ul>
-<!-- 4. LAVORO / CLIENTI
-     Progetti reali con persone reali dietro. Nome, link se pubblico, una riga sul risultato.
--->
 
-<!-- 5. IN CORSO ORA
-     Una o due cose su cui stai lavorando davvero in questo momento. Non un elenco di buoni propositi.
--->
+<hr>
+
 <h2>Work in progress</h2>
 <ul>
   <li>Creating a simple FastAPI using Python to get the leads info from n8n and save it in a SQLite3 database and display it in a html/css website</li>
 </ul>
-<!-- 6. CHIUSURA (opzionale)
-     Link di contatto o niente. Non serve una frase a effetto.
--->
-<h1>Contact me</h1>
-<p>Email: metis.dev@proton.me</p>
 
+<hr>
+
+<h2>Contact me</h2>
+<p>Email: metis.dev@proton.me</p>
