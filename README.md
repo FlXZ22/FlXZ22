@@ -15,7 +15,7 @@
 
 <h2>Projects</h2>
 <ul>
-  <li>Full-stack websites for local businesses through my studio, <a href="https://vetrinastudio.it">Vetrina Studio</a>. Here's a <a href="https://la-villetta.vercel.app">live example</a></li>
+  <li>Full-stack websites for local businesses through my studio, <a href="https://vetrinastudio.it">Vetrina Studio</a>. Here's a <a href="https://villetta.firexz104.workers.dev/">live example</a></li>
   <li>Sorting algorithm visualizer built in Python with Plotly and Streamlit, tracks both the algorithm's runtime and total execution time: <a href="https://python-sorting-visualizer.streamlit.app/">demo here</a></li>
   <li>Self-hosted VPS running my personal AI agent through Telegram, plus WireGuard VPN and n8n automations</li>
   <li>n8n lead-gen pipeline: scrapes Google Maps through Apify, scores leads with AI, dumps everything into Google Sheets</li>
